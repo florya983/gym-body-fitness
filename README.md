@@ -8,7 +8,7 @@ Sitio web de un gimnasio donde los usuarios pueden:
 - Ver clases disponibles
 - Ver promociones
 - Contactar al gimnasio
-- Acceder a formulario de registro
+- Acceder a formulario de registro/acceso clientes
 
 ## Tecnologías usadas
 - HTML
