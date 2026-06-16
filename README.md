@@ -1,18 +1,25 @@
-# Gym Cuerpo Fitness 
 
-Proyecto web realizado con HTML y CSS.
+gym-body-fitness
 
-##  Descripción
 
-Sitio web de gimnasio donde usuarios pueden:
-- Ver clases disponibles
-- Ver promociones
-- Contactar gimnasio
-- Acceder a formulario de registro/acceso clientes
+## Description
 
-## Tecnologías usadas
+Gym website where users can:
+
+View available classes
+
+View promotions
+
+Contact the gym
+
+Access registration and login forms
+
+
+## Technologies Used
+
 - HTML
 - CSS
+
 
 ##  Demo
 
