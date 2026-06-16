@@ -1,8 +1,8 @@
 
-gym-body-fitness
+GYM BODY FITNESS 
 
 
-## Description
+Description 
 
 Gym website where users can:
 
@@ -15,12 +15,12 @@ Contact the gym
 Access registration and login forms
 
 
-## Technologies Used
+Technologies used
 
 - HTML
 - CSS
 
 
-##  Demo
+Demo
 
 https://florya983.github.io/gym-cuerpo-fitness/
