@@ -4,10 +4,10 @@ Proyecto web realizado con HTML y CSS.
 
 ##  Descripción
 
-Sitio web de un gimnasio donde los usuarios pueden:
+Sitio web de gimnasio donde usuarios pueden:
 - Ver clases disponibles
 - Ver promociones
-- Contactar al gimnasio
+- Contactar gimnasio
 - Acceder a formulario de registro/acceso clientes
 
 ## Tecnologías usadas
